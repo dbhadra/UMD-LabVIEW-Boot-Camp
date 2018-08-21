@@ -1,6 +1,6 @@
 # UMD-LabVIEW-Boot-Camp 
 
-90% original codes 10% help from NI forum :)
+Shout out to the NI Community Forum for the occasional help :)
 
 Bootcamp: https://events.ni.com/profile/form/index.cfm?PKformID=0x269060c19a
 
